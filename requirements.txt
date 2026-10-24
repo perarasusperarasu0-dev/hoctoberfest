@@ -1,0 +1,22 @@
+# LazySort – AI File Organizer
+# Python Requirements
+
+# Core Web UI
+streamlit>=1.30.0
+
+# Document & Content Extractors
+pypdf>=4.0.0
+python-docx>=1.0.0
+pillow>=10.0.0
+
+# HTTP & API Communication for Ollama
+requests>=2.31.0
+
+# Data structures and table rendering
+pandas>=2.0.0
+
+# Demo Dataset Generation
+reportlab>=4.0.0
+
+# Automated Test Suite
+pytest>=8.0.0

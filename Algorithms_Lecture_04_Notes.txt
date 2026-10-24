@@ -1,0 +1,13 @@
+CS 201: Data Structures & Algorithms - Lecture 04
+Topic: Divide-and-Conquer Sorting Algorithms
+Professor: Dr. Henderson | Midterm Date: November 12
+
+Key Concepts Covered:
+1. MergeSort: Recursively divides array into two halves, sorts each half, and merges them.
+   - Time Complexity: O(n log n) in best, average, and worst cases.
+   - Space Complexity: O(n) auxiliary space required for merging.
+
+2. QuickSort: Chooses a pivot element and partitions elements smaller/larger than pivot.
+   - Average Time Complexity: O(n log n), Worst Case: O(n^2) when poorly chosen pivot.
+
+Homework Assignment: Implement 3-way partitioning for duplicate elements by next Tuesday.

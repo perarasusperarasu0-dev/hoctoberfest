@@ -1,0 +1,9 @@
+{
+  "app_name": "TelemetryDaemon",
+  "version": "2.4.1",
+  "port": 8080,
+  "metrics_enabled": true,
+  "retry_attempts": 5,
+  "timeout_seconds": 30,
+  "environment": "production"
+}
