@@ -222,4 +222,5 @@ python -m pytest -v
 ### 4. How do I analyze image contents (receipts, whiteboards)?
 - **Solution**: Text models like `llama3.2` cannot inspect image pixels. Download a vision model with `ollama pull llava` and select `llava` in the sidebar dropdown!
 #   h o c t o b e r f e s t  
+ #   h o c t o b e r f e s t  
  
